@@ -1,35 +1,45 @@
-# 👋 Olá, mundo! Eu sou [Seu Nome] 🚀
+# 👨‍🏫 Jeferson Faleiro Leon | Dev, Professor & Especialista em Tecnologia  
 
-🎯 **Desenvolvedor em formação | Criativo digital | Tech Enthusiast**
----
-## 💡 Sobre mim
-🖥️ Apaixonado por tecnologia, design e inovação, estou construindo minha jornada no mundo da programação e da computação gráfica. Desde lógica de programação até criação de websites modernos, estou sempre aprendendo e buscando novas formas de transformar ideias em realidade! 🌍✨
-📌 Atualmente aprimorando minhas habilidades em:
-- **💻 Java** → Construção de algoritmos e lógica de programação
-- **🛢️ Banco de Dados** → Modelagem e consultas SQL no MySQL
-- **🎨 Computação Gráfica** → Design criativo com Illustrator & Photoshop
-- **🌐 Desenvolvimento Web** → HTML, CSS e JavaScript para sites incríveis
----
-## 🚀 Tecnologias & Ferramentas
-🔹 Java ☕ | MySQL 🛢️ | HTML/CSS 🎨 | JavaScript ⚡  
-🔹 Adobe Illustrator 🎭 | Adobe Photoshop 🖌️ | Git & GitHub 🐙
----
-## 🎯 Projetos & Experimentos
-📌 Sempre explorando novas ideias! Aqui estão alguns dos meus projetos:
-✅ [Projeto 1](#) → Breve descrição (Exemplo: "Landing Page interativa feita com HTML, CSS e JS")  
-✅ [Projeto 2](#) → Breve descrição (Exemplo: "CRUD em Java com MySQL")  
-✅ [Projeto 3](#) → Breve descrição (Exemplo: "Logo e identidade visual para uma startup fictícia")  
-✍️ Mais projetos em breve! 🚀
+🚀 Professor e especialista em tecnologia com mais de 20 anos de experiência em desenvolvimento de sistemas e educação profissional. Apaixonado por conectar teoria e prática, formando profissionais capacitados para o mercado.  
+
+🎯 **Minha missão:** Tornar a tecnologia acessível, transformar conhecimento em resultados e preparar devs para desafios reais!  
+
 ---
 
+## 🛠️ Tech Stack  
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+🔹 **Linguagens:** Python | Java | JavaScript  
+🔹 **Banco de Dados:** PostgreSQL | MySQL | MongoDB  
+🔹 **Frameworks:** Node.js | Express | Spring Boot  
+🔹 **Ferramentas:** Git | Docker | CI/CD  
+🔹 **Cloud & DevOps:** AWS | Firebase | Heroku  
+
 ---
-## 🌍 Onde me encontrar?
-📌 [GitHub](https://github.com/seu-usuario) → Confira meus códigos!  
-📌 [LinkedIn](https://linkedin.com/in/seu-perfil) → Vamos conectar?  
-📌 [Portfólio](#) → Meu espaço criativo digital  
-🚀 Sempre pronto para novas oportunidades e desafios! Vamos construir algo incrível juntos? 😃
 
+## 🎓 Formação  
+
+📌 **Tecnólogo em Desenvolvimento de Sistemas**  
+📌 **Pós-graduações:** Formação Pedagógica | Tecnologias Digitais Aplicadas à Educação | Gestão Escolar  
+
+---
+
+## 📚 O que faço atualmente?  
+
+✅ Professor no **Colégio ULBRA São Lucas**  
+✅ Mentor de futuros desenvolvedores  
+✅ Explorando **Inteligência Artificial na Educação**  
+
+---
+
+## 📬 Conecte-se comigo!  
+
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonleonblue@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-faleiro-leon-02344222/)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Jeferson Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonfaleiro&show_icons=true&theme=radical)  
+
+🚀 **Código, ensino e inovação andam juntos! Vamos construir o futuro da tecnologia?**  

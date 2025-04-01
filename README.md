@@ -8,11 +8,11 @@
 
 ## 🛠️ Tech Stack  
 
-🔹 **Linguagens:** Python | Java | JavaScript  
-🔹 **Banco de Dados:** PostgreSQL | MySQL | MongoDB  
+🔹 **Linguagens:** PHP | Java | JavaScript  
+🔹 **Banco de Dados:** PostgreSQL | MySQL  
 🔹 **Frameworks:** Node.js | Express | Spring Boot  
-🔹 **Ferramentas:** Git | Docker | CI/CD  
-🔹 **Cloud & DevOps:** AWS | Firebase | Heroku  
+🔹 **Ferramentas:** Git | Docker 
+🔹 **Cloud & DevOps:** Firebase | Heroku  
 
 ---
 
